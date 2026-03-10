@@ -9,3 +9,5 @@ faiss-cpu
 chromadb
 numpy
 scikit-learn
+langchain-groq
+python-dotenv
