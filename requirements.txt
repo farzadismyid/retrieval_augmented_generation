@@ -11,3 +11,5 @@ numpy
 scikit-learn
 langchain-groq
 python-dotenv
+langchain_openai
+langgraph
