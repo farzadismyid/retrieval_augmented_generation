@@ -167,7 +167,7 @@ This project was created to practice and understand:
 -   integrating LLM APIs
 
 ## Possible Improvements
-
+This model is basically the vanilla RAG and will be upgraded to agrntic and vectorless RAG later.
 Future improvements may include:
 
 -   adding duplicate detection before inserting documents
